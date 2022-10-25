@@ -1,7 +1,7 @@
 Hi! i'm Wellington
 
 - 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: wellingtonfilho305@gmail.com
 
 #
